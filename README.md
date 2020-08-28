@@ -107,10 +107,14 @@ _TODO: Answer the following questions to fill in the blanks:_
 _As a **Bonus**, provide the specific commands the user will need to run to download the playbook, update the files, etc._
 
 to git
-git clone (the coppied clone address from git hub)
+
+run: git clone (the coppied clone address from git hub)
 
 to upload
 in the top most directory of the git files
-git add .
+
+run : git add .
+
 git commit -m "number your commits ex. first commit"
+
 git push
